@@ -6,4 +6,10 @@
 .App > div {
   height: 20px;
   text-align: center;
+  /* display: flex; */
+}
+.input {
+  width: 10px;
+  /* display: flex; */
+  text-align: center;
 }
